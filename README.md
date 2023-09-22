@@ -11,7 +11,7 @@
 ## Description 
 With this project, making the site fall within accessibility guidlines as well as condensing aspects of the code for simplicity's sake was the main goal. While working on this project
 
-[Visit the Deployed Site](https://youtu.be/BFyeuLhjcPY) 
+[Visit the Deployed Site](https://armand57araujo.github.io/Horisean-Consultants/) 
 
 ![meeting.png](assets/images/Meeting.png)
 
